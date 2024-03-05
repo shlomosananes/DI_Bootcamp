@@ -12,4 +12,4 @@ day_last = day % 10
 
 print(day_last)
 
-print("    "+)
+print("    ")
