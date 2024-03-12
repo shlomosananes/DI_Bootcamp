@@ -106,7 +106,7 @@ class Pagination():
 
     def lastPage(self) -> Self:
         self.value = self.totalPages()
-         return self
+        return self
 
     def goToPage(self, pageNum) -> Self:
         self.pageNum = pageNum
